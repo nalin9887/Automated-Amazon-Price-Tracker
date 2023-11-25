@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 import requests
 import lxml
 import smtplib
-my_email="nalindummy1@gmail.com"
-password="jcyrujpuarikiqoy"
+my_email="xxxxxxx@gmail.com"
+password="xxxxxxxxx"
 
 
 web_url="https://www.amazon.in/Beats-Studio3-Wireless-Over%E2%80%91Ear-Headphones/dp/B08529DT8N/ref=sr_1_1?crid=CN6FUUN0G3VJ&keywords=headphone%2Bbeat&qid=1700887944&sprefix=headohine%2Bbeat%2Caps%2C236&sr=8-1&th=1"
